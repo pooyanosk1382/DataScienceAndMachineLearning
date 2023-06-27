@@ -16,3 +16,5 @@ __ColumnTransformer__ changes columns of dataset.
 __LabelEncoder__ is used to convert two-state data to 0 and 1.
 
 __train_test_split__ splits independent and dependent variable to two entity. Trian and test. 
+
+__StandardScaler__ is used to apply standardisation on data.
