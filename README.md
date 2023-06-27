@@ -4,7 +4,7 @@ Codes of machine learning course and summary of each lesson.
 ## Data preprocesssing in python
 
 ### Library
-There are some useful library such as numpy, matplotlib, pandas and the most useful sklearn
+There are some useful libraries such as numpy, matplotlib, pandas and the most useful sklearn.
 
 ### Function
 __SimpleImputer__ use to take care of missing data.
