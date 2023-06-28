@@ -21,3 +21,8 @@ __StandardScaler__ is used to apply standardisation on data.
 
 
 ## Simple Linear Regression
+
+### Function
+__LinearRegression__ is a object to fit a regression on a train set.
+
+__.predict__ is a function to predict the y by use of regression object.
