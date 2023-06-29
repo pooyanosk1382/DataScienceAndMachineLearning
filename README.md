@@ -33,3 +33,11 @@ The functions is just like __Simple Linear Regression__ just need to encode the 
 __Tip1:__ The LinearRegression function handle dummy variable and choose best feature.
 
 __Tip2:__ Because the number of elements are more than two we can't show them by graphs so we just check the prediction with test set.
+
+
+## Polynomial Regression
+
+For this part we do just as same the multiple linear regression just create x^2 and x^3 and ... by PolynomialFeatures.
+
+### Function:
+__PolynomialFeatures__ is used to create x and x^2and x^3 and ...
