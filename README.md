@@ -41,3 +41,12 @@ For this part we do just as same the multiple linear regression just create x^2 
 
 ### Function:
 __PolynomialFeatures__ is used to create x and x^2and x^3 and ...
+
+
+## Support Vector Regression
+The first thing to mention is that we use feature scaling on both x and y because this is how svr works.
+
+### Function:
+__SVR__ that is a class and we shouldd make an object from this.
+
+__inverse_transform__ that is used to return the values ​​to the state before feature scaling
