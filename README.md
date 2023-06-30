@@ -1,7 +1,9 @@
 # DataScienceAndMachineLearning
 This repository contains codes and summary of each lesson of the machine learning course.
 
+
 # Data preprocessing in python:
+
 
 ### Library:
 There are some useful libraries such as numpy, matplotlib, pandas and the most useful **sklearn**.
@@ -67,3 +69,7 @@ This model is like decision tree regression.
 
 ### Function:
 __RandomForestRegressor__ is class of this model.
+
+
+# Regression Template
+In this folder, there are some template to use for regression models.
