@@ -1,7 +1,7 @@
 # DataScienceAndMachineLearning
 This repository contains codes and summary of each lesson of the machine learning course.
 
-## Data preprocessing in python:
+# Data preprocessing in python:
 
 ### Library:
 There are some useful libraries such as numpy, matplotlib, pandas and the most useful **sklearn**.
@@ -18,6 +18,9 @@ __LabelEncoder__ is used to convert two-state data to 0 and 1.
 __train_test_split__ will split the whole dataset to two main parts, **Train & Test**.
 
 __StandardScaler__ is used to apply standardization on data.
+
+
+# Regression
 
 
 ## Simple Linear Regression:
