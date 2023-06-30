@@ -50,3 +50,10 @@ The first thing to mention is that we use feature scaling on both x and y becaus
 __SVR__ that is a class and we shouldd make an object from this.
 
 __inverse_transform__ that is used to return the values ​​to the state before feature scaling
+
+
+## Decision Tree Regression
+This model is not good for one feature and is better to use it when we have some features. This doesn't need feature scaling. Other things are same as last parts.
+
+### Function:
+__DecisionTreeRegressor__ is class of this model.
