@@ -57,3 +57,10 @@ This model is not good for one feature and is better to use it when we have some
 
 ### Function:
 __DecisionTreeRegressor__ is class of this model.
+
+
+## Random Forecast Regression
+This model is like decision tree regression.
+
+### Function:
+__RandomForestRegressor__ is class of this model.
