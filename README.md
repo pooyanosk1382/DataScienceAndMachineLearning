@@ -73,3 +73,9 @@ __RandomForestRegressor__ is class of this model.
 
 # Regression Template
 In this folder, there are some template to use for regression models.
+
+
+# Classification
+
+
+## Logistic Regression
