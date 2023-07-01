@@ -80,3 +80,6 @@ In this folder, there are some template to use for regression models.
 
 ## Logistic Regression
 In this part we do same as regression and need feature scaling.
+
+### Function:
+__LogisticRegression__ is class of this model.
