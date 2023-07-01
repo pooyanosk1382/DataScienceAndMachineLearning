@@ -83,3 +83,7 @@ In this part we do same as regression and need feature scaling.
 
 ### Function:
 __LogisticRegression__ is class of this model.
+
+__confusion_matrix__ is used to show a matrix to show us the accuracy.
+
+__accuracy_score__ is used to show the accuracy.
