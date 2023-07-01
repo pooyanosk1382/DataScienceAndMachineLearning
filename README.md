@@ -87,3 +87,10 @@ __LogisticRegression__ is class of this model.
 __confusion_matrix__ is used to show a matrix to show us the accuracy.
 
 __accuracy_score__ is used to show the accuracy.
+
+
+## K Nearest Neighbor
+This is as same as __LogisticRegression__.
+
+### Function:
+__KNeighborsClassifier__ is class of this model.
