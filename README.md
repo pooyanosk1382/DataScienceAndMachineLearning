@@ -94,3 +94,10 @@ This is as same as __LogisticRegression__.
 
 ### Function:
 __KNeighborsClassifier__ is class of this model.
+
+
+## Support Vector Machine
+This is as same as __LogisticRegression__.
+
+### Function:
+__SVC__ is class of this model.
