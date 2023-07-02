@@ -105,3 +105,10 @@ __SVC__ is class of this model.
 
 ## Kernel SVM
 This is just like __Support Vector Machine__ and, we need just to put rbf in the __kernel__ of the class.
+
+
+## Naive Bayes
+This is as same as __LogisticRegression__.
+
+### Function:
+__GaussianNB__ is class of this model.
