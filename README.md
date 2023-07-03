@@ -119,3 +119,10 @@ This is as same as __LogisticRegression__.
 
 ### Function:
 __DecisionTreeClassifier__ is class of this model.
+
+
+## Random Forest Classification
+This is as same as __LogisticRegression__.
+
+### Function:
+__RandomForestClassifier__ is class of this model.
