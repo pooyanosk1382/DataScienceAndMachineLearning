@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="606e4b42-ea03-44f3-8508-4354f1c34d38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Classification Template/KNearestNeighbors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classification Template/KNearestNeighbors.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification Template/KernelSvm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classification Template/KernelSvm.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="606e4b42-ea03-44f3-8508-4354f1c34d38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
