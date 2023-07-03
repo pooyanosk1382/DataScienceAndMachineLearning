@@ -126,3 +126,7 @@ This is as same as __LogisticRegression__.
 
 ### Function:
 __RandomForestClassifier__ is class of this model.
+
+
+# Classification Template
+In this folder, there are some template to use for classification models.
