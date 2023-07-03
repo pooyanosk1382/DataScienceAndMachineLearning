@@ -112,3 +112,10 @@ This is as same as __LogisticRegression__.
 
 ### Function:
 __GaussianNB__ is class of this model.
+
+
+## Decision Tree Classification
+This is as same as __LogisticRegression__.
+
+### Function:
+__DecisionTreeClassifier__ is class of this model.
