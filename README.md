@@ -141,3 +141,14 @@ In this file we try to cluster data by k-means++ and have a visualising on the c
 __KMeans__ is class of this model. Here we need to initial the init by k-means++.
 
 __kMeans.fit_predict__ is the function that cluster data.
+
+
+## Hierarchical Clustering
+
+### Library:
+In here we use __Scipy__ to use __dendrogram__ function.
+
+### Function:
+__dendrogram__ is used to for dendrogram plotting.
+
+__AgglomerativeClustering__ is class if this model.
