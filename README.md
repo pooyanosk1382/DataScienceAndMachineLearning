@@ -130,3 +130,14 @@ __RandomForestClassifier__ is class of this model.
 
 # Classification Template
 In this folder, there are some template to use for classification models.
+
+
+# Clustering
+
+## K Means Clustering
+In this file we try to cluster data by k-means++ and have a visualising on the clustering.
+
+### Function:
+__KMeans__ is class of this model. Here we need to initial the init by k-means++.
+
+__kMeans.fit_predict__ is the function that cluster data.
