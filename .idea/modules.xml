@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataScienceAndMachineLearning.iml" filepath="$PROJECT_DIR$/.idea/DataScienceAndMachineLearning.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/.idea/Desktop.iml" filepath="$USER_HOME$/Desktop/.idea/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../programming/Data sets/Diabetes Prediction/.idea/Diabetes Prediction.iml" filepath="$PROJECT_DIR$/../../programming/Data sets/Diabetes Prediction/.idea/Diabetes Prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/MedicalCostPersonal.iml" filepath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/MedicalCostPersonal.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp1_132 - Machine-Learning-A-Z-Model-Selection.zip/Machine Learning A-Z (Model Selection)/Regression/.idea/Regression.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp1_132 - Machine-Learning-A-Z-Model-Selection.zip/Machine Learning A-Z (Model Selection)/Regression/.idea/Regression.iml" />
     </modules>
   </component>
 </project>

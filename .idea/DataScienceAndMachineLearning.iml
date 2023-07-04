@@ -5,5 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Desktop" />
+    <orderEntry type="module" module-name="Diabetes Prediction" />
+    <orderEntry type="module" module-name="Regression" />
+    <orderEntry type="module" module-name="MedicalCostPersonal" />
   </component>
 </module>
