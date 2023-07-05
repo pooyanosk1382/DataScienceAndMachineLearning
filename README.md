@@ -152,3 +152,15 @@ In here we use __Scipy__ to use __dendrogram__ function.
 __dendrogram__ is used to for dendrogram plotting.
 
 __AgglomerativeClustering__ is class if this model.
+
+
+# Association Rules Learning
+
+## Apriori
+In this file we will recommend products.
+
+### Library:
+In here we use __apyori__ to use __apriori__ function.
+
+### Function:
+__apriori__ is used to find the rules. For this function we need to fix __transactions, min_support, min_confidence, min_lift, min_length, max_length__.
