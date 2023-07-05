@@ -156,6 +156,7 @@ __AgglomerativeClustering__ is class if this model.
 
 # Association Rules Learning
 
+
 ## Apriori
 In this file we will recommend products.
 
@@ -164,3 +165,7 @@ In here we use __apyori__ to use __apriori__ function.
 
 ### Function:
 __apriori__ is used to find the rules. For this function we need to fix __transactions, min_support, min_confidence, min_lift, min_length, max_length__.
+
+
+## Eclat
+This is as same as __Apriori__.
