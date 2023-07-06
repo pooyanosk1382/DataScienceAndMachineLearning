@@ -169,3 +169,10 @@ __apriori__ is used to find the rules. For this function we need to fix __transa
 
 ## Eclat
 This is as same as __Apriori__.
+
+
+# Reinforcement
+
+
+## Upper Confidence Bound
+In here we calculate the reward by three steps of algorithm.
