@@ -176,3 +176,8 @@ This is as same as __Apriori__.
 
 ## Upper Confidence Bound
 In here we calculate the reward by three steps of algorithm.
+
+
+## Thompson Sampling
+In here we calculate the reward by three steps of algorithm. This model is exactly more powerful than UCB.
+
