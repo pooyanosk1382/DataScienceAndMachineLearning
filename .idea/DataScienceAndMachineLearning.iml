@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="Regression" />
     <orderEntry type="module" module-name="MedicalCostPersonal" />
     <orderEntry type="module" module-name="Python" />
+    <orderEntry type="module" module-name="Forex" />
   </component>
 </module>
