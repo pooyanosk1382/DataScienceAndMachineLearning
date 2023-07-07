@@ -181,3 +181,12 @@ In here we calculate the reward by three steps of algorithm.
 ## Thompson Sampling
 In here we calculate the reward by three steps of algorithm. This model is exactly more powerful than UCB.
 
+
+# Natural Language Processing
+In this section we try to create a model to understand English.
+
+### Libraries:
+In here we use __re__ and __nltk__ for cleaning the data.
+
+### Functions:
+__CountVectorizer__ is used to create the __Bag of Word__ model.
