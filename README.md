@@ -194,6 +194,7 @@ __CountVectorizer__ is used to create the __Bag of Word__ model.
 
 # Deep Learning
 
+
 ## Artificial Neural Network
 In this section we classify by neural network.
 
