@@ -247,3 +247,15 @@ __cross_val_score__ returns accuracy and standard deviation of the model in rang
 
 ## Functions:
 __GridSearchCV__ returns the best accuracy and details of the best parameter for the model.
+
+
+# XGBoost
+This model is used for regression and classification.
+
+### Libraries:
+__xgboost__ is the library that contain this model.
+
+### Functions:
+__XGBClassifier__ is for classification.
+
+__XGBRegressor__ is for regression.
