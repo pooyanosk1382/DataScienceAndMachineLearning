@@ -224,3 +224,10 @@ In this part we reduce the number of feature to reduce the complexity of the dat
 
 ### Functions:
 __LinearDiscriminantAnalysis__ is used to reduce the dimensions.
+
+
+## Kernel Principal Component Analysis
+In this part we reduce the number of feature to reduce the complexity of the dataset.
+
+### Functions:
+__KernelPCA__ is used to reduce the dimensions.
