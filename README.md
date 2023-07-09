@@ -217,3 +217,10 @@ In this part we reduce the number of feature to reduce the complexity of the dat
 
 ### Functions:
 __PCA__ is used to reduce the dimensions.
+
+
+## Linear Discriminant Analysis
+In this part we reduce the number of feature to reduce the complexity of the dataset.
+
+### Functions:
+__LinearDiscriminantAnalysis__ is used to reduce the dimensions.
