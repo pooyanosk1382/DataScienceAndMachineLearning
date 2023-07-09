@@ -190,3 +190,19 @@ In here we use __re__ and __nltk__ for cleaning the data.
 
 ### Functions:
 __CountVectorizer__ is used to create the __Bag of Word__ model.
+
+
+# Deep Learning
+
+## Artificial Neural Network
+In this section we classify by neural network.
+
+### Libraries:
+__tensorflow__ is the best library for deep learning.
+
+### Functions:
+__keras.models.Sequential__ is used to make the **Neural Network**.
+
+__keras.layers.Dense__ is used to add layer to **Neural Network**.
+
+__compile__ is used to configure the model for training.
