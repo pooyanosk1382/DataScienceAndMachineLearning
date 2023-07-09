@@ -231,3 +231,13 @@ In this part we reduce the number of feature to reduce the complexity of the dat
 
 ### Functions:
 __KernelPCA__ is used to reduce the dimensions.
+
+
+# Model Selection
+In this part we choose the best parameter for our models.
+
+
+## K Fold Cross Validation
+
+### Functions:
+__cross_val_score__ returns accuracy and standard deviation of the model in range of different test cases.
