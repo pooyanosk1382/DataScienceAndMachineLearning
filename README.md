@@ -5,10 +5,10 @@ This repository contains codes and summary of each lesson of the machine learnin
 # Data preprocessing in python:
 
 
-### Library:
+### Libraries:
 There are some useful libraries such as numpy, matplotlib, pandas and the most useful **sklearn**.
 
-### Function:
+### Functions:
 __SimpleImputer__ is used to take care of missing data.
 
 __OneHotEncoder__ changes strings to numerical vectors.
@@ -27,7 +27,7 @@ __StandardScaler__ is used to apply standardization on data.
 
 ## Simple Linear Regression:
 
-### Function:
+### Functions:
 __LinearRegression__ is an object to fit a regression on a train set.
 
 __.predict__ is a function to predict the y by use of regression object.
@@ -44,14 +44,14 @@ __Tip2:__ Because the number of elements are more than two we can't show them by
 
 For this part we do just as same the multiple linear regression just create x^2 and x^3 and ... by PolynomialFeatures.
 
-### Function:
+### Functions:
 __PolynomialFeatures__ is used to create x and x^2and x^3 and ...
 
 
 ## Support Vector Regression
 The first thing to mention is that we use feature scaling on both x and y because this is how svr works.
 
-### Function:
+### Functions:
 __SVR__ that is a class ,and we should make an object from this.
 
 __inverse_transform__ that is used to return the values to the state before feature scaling
@@ -60,14 +60,14 @@ __inverse_transform__ that is used to return the values to the state before feat
 ## Decision Tree Regression
 This model is not good for one feature and is better to use it when we have some features. This doesn't need feature scaling. Other things are same as last parts.
 
-### Function:
+### Functions:
 __DecisionTreeRegressor__ is class of this model.
 
 
 ## Random Forest Regression
 This model is like decision tree regression.
 
-### Function:
+### Functions:
 __RandomForestRegressor__ is class of this model.
 
 
@@ -81,7 +81,7 @@ In this folder, there are some template to use for regression models.
 ## Logistic Regression
 In this part we do same as regression and need feature scaling.
 
-### Function:
+### Functions:
 __LogisticRegression__ is class of this model.
 
 __confusion_matrix__ is used to show a matrix to show us the accuracy.
@@ -92,14 +92,14 @@ __accuracy_score__ is used to show the accuracy.
 ## K Nearest Neighbor
 This is as same as __LogisticRegression__.
 
-### Function:
+### Functions:
 __KNeighborsClassifier__ is class of this model.
 
 
 ## Support Vector Machine
 This is as same as __LogisticRegression__.
 
-### Function:
+### Functions:
 __SVC__ is class of this model.
 
 
@@ -110,21 +110,21 @@ This is just like __Support Vector Machine__ and, we need just to put rbf in the
 ## Naive Bayes
 This is as same as __LogisticRegression__.
 
-### Function:
+### Functions:
 __GaussianNB__ is class of this model.
 
 
 ## Decision Tree Classification
 This is as same as __LogisticRegression__.
 
-### Function:
+### Functions:
 __DecisionTreeClassifier__ is class of this model.
 
 
 ## Random Forest Classification
 This is as same as __LogisticRegression__.
 
-### Function:
+### Functions:
 __RandomForestClassifier__ is class of this model.
 
 
@@ -137,7 +137,7 @@ In this folder, there are some template to use for classification models.
 ## K Means Clustering
 In this file we try to cluster data by k-means++ and have a visualising on the clustering.
 
-### Function:
+### Functions:
 __KMeans__ is class of this model. Here we need to initial the init by k-means++.
 
 __kMeans.fit_predict__ is the function that cluster data.
@@ -145,10 +145,10 @@ __kMeans.fit_predict__ is the function that cluster data.
 
 ## Hierarchical Clustering
 
-### Library:
+### Libraries:
 In here we use __Scipy__ to use __dendrogram__ function.
 
-### Function:
+### Functions:
 __dendrogram__ is used to for dendrogram plotting.
 
 __AgglomerativeClustering__ is class if this model.
@@ -160,10 +160,10 @@ __AgglomerativeClustering__ is class if this model.
 ## Apriori
 In this file we will recommend products.
 
-### Library:
+### Libraries:
 In here we use __apyori__ to use __apriori__ function.
 
-### Function:
+### Functions:
 __apriori__ is used to find the rules. For this function we need to fix __transactions, min_support, min_confidence, min_lift, min_length, max_length__.
 
 
