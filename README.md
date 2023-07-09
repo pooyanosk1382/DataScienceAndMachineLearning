@@ -241,3 +241,9 @@ In this part we choose the best parameter for our models.
 
 ### Functions:
 __cross_val_score__ returns accuracy and standard deviation of the model in range of different test cases.
+
+
+## Grid Search
+
+## Functions:
+__GridSearchCV__ returns the best accuracy and details of the best parameter for the model.
