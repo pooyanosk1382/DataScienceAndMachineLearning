@@ -207,3 +207,13 @@ __keras.models.Sequential__ is used to make the **Neural Network**.
 __keras.layers.Dense__ is used to add layer to **Neural Network**.
 
 __compile__ is used to configure the model for training.
+
+
+# Dimensionality Reduction
+
+
+## Principal Component Analysis
+In this part we reduce the number of feature to reduce the complexity of the dataset.
+
+### Functions:
+__PCA__ is used to reduce the dimensions.
