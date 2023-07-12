@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataScienceAndMachineLearning.iml" filepath="$PROJECT_DIR$/.idea/DataScienceAndMachineLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" filepath="$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/.idea/Desktop.iml" filepath="$USER_HOME$/Desktop/.idea/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../programming/Data sets/Diabetes Prediction/.idea/Diabetes Prediction.iml" filepath="$PROJECT_DIR$/../../programming/Data sets/Diabetes Prediction/.idea/Diabetes Prediction.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../programming/Data sets/Forex/.idea/Forex.iml" filepath="$PROJECT_DIR$/../../programming/Data sets/Forex/.idea/Forex.iml" />

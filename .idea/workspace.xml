@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606e4b42-ea03-44f3-8508-4354f1c34d38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataScienceAndMachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataScienceAndMachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/ArtificialNeuralNetwork.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/ArtificialNeuralNetwork.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/Data sets/Forex/Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/Data sets/Forex/Test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/MedicalCostPersonal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/MedicalCostPersonal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal/.idea/workspace.xml" afterDir="false" />
@@ -20,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../programming/Data sets/MedicalCostPersonal" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,7 +39,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/studing/data science/DeepLearning&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

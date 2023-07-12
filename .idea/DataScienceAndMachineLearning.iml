@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="MedicalCostPersonal" />
     <orderEntry type="module" module-name="Python" />
     <orderEntry type="module" module-name="Forex" />
+    <orderEntry type="module" module-name="DeepLearning" />
   </component>
 </module>
